@@ -130,19 +130,16 @@ span{
   color: black;
 }
 
-
-/* Media Query to show/hide menu-bars on smaller screens */
+// Media queries
 @media (max-width: 768px) {
   .icons #menu-bars {
       display: block;
   }
-  /* Additional styles for mobile view */
   .navbar {
     .nav-link {
       padding: 0.5rem;
       font-size: 20px;
     }
-      /* You might add other styles to show the navbar on mobile */
   }
   .icons span{
     font-size: 10px;
@@ -152,13 +149,11 @@ span{
   .icons #menu-bars {
       display: block;
   }
-  /* Additional styles for mobile view */
   .navbar {
     .nav-link {
       padding: 0.3rem;
       font-size: 10px;
     }
-      /* You might add other styles to show the navbar on mobile */
   }
   .icons span{
     font-size: 8px;
