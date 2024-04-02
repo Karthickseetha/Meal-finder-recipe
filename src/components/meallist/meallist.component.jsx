@@ -1,6 +1,6 @@
 import React from 'react';
 import MealItem from '../mealItem/mealItem.component';
-import './mealList.styles.scss'
+import './meallist.styles.scss'
 
 const MealList = ({ meals, handleMealClick }) => {
   return (
