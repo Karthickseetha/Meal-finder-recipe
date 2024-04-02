@@ -1,5 +1,5 @@
 import React from 'react';
-import './Singlemeal.styles.scss';
+import './singlemeal.styles.scss';
 
 const SingleMeal = ({ mealData }) => {
   const ing = [];

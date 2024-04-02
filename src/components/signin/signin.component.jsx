@@ -1,4 +1,3 @@
-// SignIn.js
 
 import React, { useState } from 'react';
 import { signInWithEmailPassword, signInWithGoogle } from '../../utils/firebase/firebase';
